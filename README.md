@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Internship – Weeks 1 & 2
+# Cybersecurity Internship – Weeks 1 & 2
 
 ## ⭐ Overview ⭐
 
